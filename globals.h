@@ -9,6 +9,8 @@
 #define VK_A 0x41
 #define TITLE "PixelArt creation tool"
 
+//Prolly should have globals
+
 enum COLOUR
 {
 	FG_BLACK = 0x0000,
